@@ -44,7 +44,7 @@ All data is fetched from my Custom CMS Backend using APIs.
 1. Open `index.html` using Live Server in VS Code  
 2. Make sure backend is running on:
 
-http://localhost:5000
+https://cms-backend-po4n.onrender.com
 
 
 ---
